@@ -1,0 +1,206 @@
+[
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-merged_res-47:\\drawable_quiz3.jpeg.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-main-49:\\drawable\\quiz3.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-merged_res-47:\\drawable_user_email.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-main-49:\\drawable\\user_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-merged_res-47:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-pngs-43:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-merged_res-47:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-main-49:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-merged_res-47:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-main-49:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-merged_res-47:\\drawable_quiz2.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-main-49:\\drawable\\quiz2.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-merged_res-47:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-main-49:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-merged_res-47:\\menu_bottom_nav.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-main-49:\\menu\\bottom_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-merged_res-47:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-main-49:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-merged_res-47:\\drawable_bk2.jpeg.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-main-49:\\drawable\\bk2.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-merged_res-47:\\layout_fragment_result.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-main-49:\\layout\\fragment_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-merged_res-47:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-main-49:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-merged_res-47:\\drawable_maths.jpg.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-main-49:\\drawable\\maths.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-merged_res-47:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-main-49:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-merged_res-47:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-main-49:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-merged_res-47:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-main-49:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-merged_res-47:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-main-49:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-merged_res-47:\\font_poppins.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-main-49:\\font\\poppins.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-merged_res-47:\\drawable_rondedbtn.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-main-49:\\drawable\\rondedbtn.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-merged_res-47:\\drawable_user_phone.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-main-49:\\drawable\\user_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-merged_res-47:\\layout_activity_dashboard.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-main-49:\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-merged_res-47:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-main-49:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-merged_res-47:\\layout_fragment_set3.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-main-49:\\layout\\fragment_set3.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-merged_res-47:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-main-49:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-merged_res-47:\\drawable_quiz1.jpeg.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-main-49:\\drawable\\quiz1.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-merged_res-47:\\drawable_home.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-main-49:\\drawable\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-merged_res-47:\\drawable_dsa.jpeg.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-main-49:\\drawable\\dsa.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-merged_res-47:\\drawable_quiz.jpeg.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-main-49:\\drawable\\quiz.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-merged_res-47:\\drawable_user_pass.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-main-49:\\drawable\\user_pass.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-merged_res-47:\\drawable_user.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-main-49:\\drawable\\user.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-merged_res-47:\\font_poppins_semibold.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-main-49:\\font\\poppins_semibold.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-merged_res-47:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-main-49:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-merged_res-47:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-main-49:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-merged_res-47:\\drawable_user.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-main-49:\\drawable\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-merged_res-47:\\drawable_result.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-main-49:\\drawable\\result.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-merged_res-47:\\drawable_imagesmaths2.jpeg.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-main-49:\\drawable\\imagesmaths2.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-merged_res-47:\\drawable_image6.jpg.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-main-49:\\drawable\\image6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-merged_res-47:\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-main-49:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-merged_res-47:\\drawable_round_corner.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-main-49:\\drawable\\round_corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-merged_res-47:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-main-49:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-merged_res-47:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-main-49:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-merged_res-47:\\drawable_userimage.png.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-main-49:\\drawable\\userimage.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-merged_res-47:\\drawable_bk.jpeg.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-main-49:\\drawable\\bk.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-merged_res-47:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-main-49:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-merged_res-47:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-main-49:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.quizey.app-merged_res-47:/layout_activity_dashboard.xml.flat",
+        "source": "com.example.quizey.app-main-49:/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-merged_res-47:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-main-49:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-merged_res-47:\\drawable_science.jpg.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-main-49:\\drawable\\science.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-merged_res-47:\\font_poppins_bold.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-main-49:\\font\\poppins_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-merged_res-47:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-main-49:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-merged_res-47:\\layout_fragment_questions.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\8.0\\com.example.quizey.app-main-49:\\layout\\fragment_questions.xml"
+    }
+]

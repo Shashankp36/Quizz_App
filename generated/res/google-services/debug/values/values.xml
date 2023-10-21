@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">105601804461-bthlnp4b9lmvtidbu2kq6kghsrnl6g24.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">105601804461</string>
+    <string name="google_api_key" translatable="false">AIzaSyCs1xbNKEeV_RbIqH0XNUT0On9XSn0BGBs</string>
+    <string name="google_app_id" translatable="false">1:105601804461:android:5cc060704b850cf182fe24</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCs1xbNKEeV_RbIqH0XNUT0On9XSn0BGBs</string>
+    <string name="google_storage_bucket" translatable="false">quizey-dcc79.appspot.com</string>
+    <string name="project_id" translatable="false">quizey-dcc79</string>
+</resources>
